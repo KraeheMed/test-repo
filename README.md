@@ -32,5 +32,5 @@ The courses comprising the Data Science Specialization are:
 
 ![Course Dependency](dst_courses.png)
 
-*Figure 1 Course dependency diagram* [0001]: https://www.coursera.org/specialization/jhudatascience/1?utm_medium=
-courseDescripTop [jhu]: http://www.jhu.edu
+*Figure 1 Course dependency diagram* 
+[0001]: https://www.coursera.org/specialization/jhudatascience/1?utm_medium=courseDescripTop [jhu]: http://www.jhu.edu
